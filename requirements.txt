@@ -1,4 +1,5 @@
 numpy
 matplotlib
 keras
-plaidml
+plaidml-keras 
+plaidbench
